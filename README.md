@@ -18,9 +18,7 @@ Este projeto é desenvolvido de forma colaborativa com **IA (Claude & Cursor)**.
 * **Lucide React** (Ícones)
 * **GitHub Pages** (Hospedagem e Deploy)
 
-### 🔗 Link do Projeto (Live Demo)
-O site está hospedado no GitHub Pages:
- [CLIQUE AQUI PARA VER O SITE](https://seu-usuario.github.io/sushi-tech/)
+
 
 ---
 
@@ -40,9 +38,7 @@ This project is built collaboratively with **AI (Claude & Cursor)**. I leverage 
 * **Lucide React** (Icons)
 * **GitHub Pages** (Hosting & Deploy)
 
-### 🔗 Live Demo
-The website is hosted on GitHub Pages:
- [CLICK HERE TO VISIT THE SITE](https://seu-usuario.github.io/sushi-tech/)
+
 
 ---
 
