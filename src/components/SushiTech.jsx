@@ -232,7 +232,7 @@ export default function SushiTech() {
               <span className="search-icon"></span>
               <input
                 className="search-input"
-                placeholder="Buscar peças, combos..."
+                placeholder=""
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
               />
